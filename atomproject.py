@@ -24,4 +24,5 @@ for item in zip (mylist1, mylist2, mylist3, mylist4):
     345 in d.keys()
 
 mylist = [10,20,30,40,50]
-min(mylist)
+min (mylist)
+max (mylist)
