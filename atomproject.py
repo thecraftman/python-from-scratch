@@ -14,7 +14,8 @@ for item in enumerate(word):
 mylist1 = [1,2,3]
 mylist2 = ['a','b','c']
 mylist3 = [100,200,300]
-for item in zip (mylist1, mylist2, mylist3):
+mylist4 = [{'k1':24, 'k2':32, 'k3':26}]
+for item in zip (mylist1, mylist2, mylist3, mylist4):
     print(item)
 
     2 in [1,2,3]
