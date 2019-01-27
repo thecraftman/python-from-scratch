@@ -19,3 +19,5 @@ for item in zip (mylist1, mylist2, mylist3):
 
     2 in [1,2,3]
     'a' in 'a world'
+    'my key' in {'my key':345}
+    345 in d.keys()
