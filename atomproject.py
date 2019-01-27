@@ -18,3 +18,4 @@ for item in zip (mylist1, mylist2, mylist3):
     print(item)
 
     2 in [1,2,3]
+    'a' in 'a world'
