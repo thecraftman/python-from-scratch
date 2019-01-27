@@ -13,5 +13,6 @@ for item in enumerate(word):
 
 mylist1 = [1,2,3]
 mylist2 = ['a','b','c']
-for item in zip (mylist1, mylist2):
+mylist3 = [100,200,300]
+for item in zip (mylist1, mylist2, mylist3):
     print(item)
