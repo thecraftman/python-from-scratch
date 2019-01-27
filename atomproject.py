@@ -33,3 +33,4 @@ random_list = shuffle(mylist)
 type(random_list)
 from random import randint
 randint (0,100)
+randint(0,100)
