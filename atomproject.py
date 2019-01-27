@@ -27,4 +27,7 @@ mylist = [10,20,30,40,50]
 min (mylist)
 max (mylist)
 
-from random import shuffle 
+from random import shuffle
+mylist = [1,2,3,4,5,6,7,8,9,10]
+shuffle(mylist)
+print(mylist)
