@@ -47,3 +47,7 @@ mylist = [letter for letter in mystring]
 
 mylist = [x for x in 'word']
 print(mylist)
+
+#print even numbers
+mylist = [x for x in range (0,11) if x%2==0]
+print(mylist)
