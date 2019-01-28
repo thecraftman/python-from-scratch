@@ -18,10 +18,6 @@ mylist4 = [{'k1':24, 'k2':32, 'k3':26}]
 for item in zip (mylist1, mylist2, mylist3, mylist4):
     print(item)
 
-    2 in [1,2,3]
-    'a' in 'a world'
-    'my key' in {'my key':345}
-
 
 mylist = [10,20,30,40,50]
 min (mylist)
@@ -35,5 +31,13 @@ from random import randint
 randint (0,100)
 randint(0,100)
 
-mynum = randint(0,10)
-mynum
+
+
+input('Enter a number here: ')
+
+mystring = 'hello'
+
+for letter in mystring:
+    mylist.append(letter)
+
+print (mylist)
