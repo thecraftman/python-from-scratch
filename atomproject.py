@@ -44,3 +44,6 @@ print (mylist)
 
 #another way of doing that
 mylist = [letter for letter in mystring]
+
+mylist = [x for x in 'word']
+print(mylist)
