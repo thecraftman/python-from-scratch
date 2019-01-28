@@ -37,7 +37,10 @@ input('Enter a number here: ')
 
 mystring = 'hello'
 
-for letter in mystring:
+for letter in mystring: #to print every letter in mystring
     mylist.append(letter)
 
 print (mylist)
+
+#another way of doing that
+mylist = [letter for letter in mystring]
