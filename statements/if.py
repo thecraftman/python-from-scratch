@@ -18,3 +18,10 @@ if hungry:
     print("FEED ME")
 else:
     print("Im not hungry")
+
+    #more examples
+loc = 'bank'
+if loc == 'Autoshop':
+    print("cars are cool")
+else:
+    print("I do not know much")
