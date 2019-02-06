@@ -19,3 +19,10 @@ else:
 
     #more examples
     
+    food = 'necessity'
+    if food == "sweet":
+        print("very sweet")
+    elif food == 'necessity':
+        print('very necessary')
+    else:
+        print("Where is my food")
