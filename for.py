@@ -32,3 +32,6 @@ for letter in mystring:
 tup = (1,2,3)
 for item in tup:
     print(item)
+
+mylist = [1,2,3,4,5,6]
+len (mylist)
