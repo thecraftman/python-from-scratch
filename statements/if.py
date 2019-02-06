@@ -12,3 +12,9 @@ if hungry:
     print("FEED ME")
 else:
     print("Im not hungry")
+
+hungry = True
+if hungry:
+    print("FEED ME")
+else:
+    print("Im not hungry")
