@@ -5,3 +5,7 @@
 mylist = [1,2,3,4,5,6,7,8,9,10]
 for num in mylist:
     print(num)
+
+mylist = [100,200,300,400,500]
+for num in mylist:
+    print(num)
