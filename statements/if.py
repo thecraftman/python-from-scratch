@@ -2,4 +2,4 @@
 
 hungry = True
 if hungry:
-    print("FEED ME URGENT")
+    print("FEED ME")
