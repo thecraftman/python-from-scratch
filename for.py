@@ -25,3 +25,5 @@ for num in mylist:
 print(list_sum)
 
 mystring = 'hello world'
+for letter in mystring:
+    print(letter)
