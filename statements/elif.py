@@ -14,3 +14,5 @@ if name == "frankie":
     print("Hello frankie")
 elif name == 'sammy':
     print('Hello sammy')
+else:
+    print("what is your name")
