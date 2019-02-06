@@ -9,3 +9,9 @@ for num in mylist:
 mylist = [100,200,300,400,500]
 for num in mylist:
     print(num)
+
+#adding if
+for num in mylist:
+    #check for even
+    if num % 2 ==0:
+        print(num)
