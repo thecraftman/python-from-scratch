@@ -8,3 +8,9 @@ elif loc == 'power house':
     print("The powerhouse is were things happen")
 else:
     print("I am not alone")
+
+name = 'sammy'
+if name == "frankie":
+    print("Hello frankie")
+elif name == 'sammy':
+    print('Hello sammy')
