@@ -16,4 +16,4 @@ for num in mylist:
     if num % 2 ==0:
         print(num)
     else:
-        print(f'odd number:{num}')
+        print(f'odd number:{num}') #prints it one after the other
