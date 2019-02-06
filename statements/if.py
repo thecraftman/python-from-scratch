@@ -3,3 +3,9 @@
 hungry = True
 if hungry:
     print("FEED ME")
+
+hungry = False
+if hungry:
+    print("FEED ME")
+else:
+    print("Im not hungry")
