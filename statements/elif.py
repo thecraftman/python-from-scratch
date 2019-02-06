@@ -16,3 +16,6 @@ elif name == 'sammy':
     print('Hello sammy')
 else:
     print("what is your name")
+
+    #more examples
+    
