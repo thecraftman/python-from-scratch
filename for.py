@@ -15,3 +15,5 @@ for num in mylist:
     #check for even
     if num % 2 ==0:
         print(num)
+    else:
+        print(f'odd number:{num}')
