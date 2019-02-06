@@ -27,3 +27,8 @@ print(list_sum)
 mystring = 'hello world'
 for letter in mystring:
     print(letter)
+
+#more examples
+tup = (1,2,3)
+for item in tup:
+    print(item)
