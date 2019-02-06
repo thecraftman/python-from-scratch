@@ -17,3 +17,5 @@ for num in mylist:
         print(num)
     else:
         print(f'odd number:{num}') #prints it one after the other
+
+list_sum = 0
