@@ -9,6 +9,8 @@ def myfunc(**kwargs):
 myfunc(fruit = 'apple')
 
 
+
+############### ARGS AND KWARGS
 def myfunc(*args, **kwargs):
     print(args)
     print(kwargs)
