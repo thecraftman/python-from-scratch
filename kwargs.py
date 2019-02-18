@@ -4,3 +4,6 @@ def myfunc(**kwargs):
 
     else:
         print('I did not find any fruit here')
+
+
+myfunc(fruit = 'apple')
