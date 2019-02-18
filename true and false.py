@@ -13,3 +13,5 @@ def makes_twenty(n1,n2):
 
 
 makes_twenty(20,10)
+
+makes_twenty(2,3) 
