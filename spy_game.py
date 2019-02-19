@@ -9,3 +9,7 @@ def spy_game(nums):
             code.pop(0)
 
     return len(code) ==1
+
+
+def square (num):
+    return num **2
