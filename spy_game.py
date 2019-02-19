@@ -13,3 +13,5 @@ def spy_game(nums):
 
 def square (num):
     return num **2
+
+my_nums = [1,2,3,4,5]
