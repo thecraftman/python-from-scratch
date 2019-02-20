@@ -5,4 +5,4 @@ def animal_crackers(text):
     print(worldlist)
 
 
-    return worldlist[0][0] == worldlist[1][0
+    return worldlist[0][0] == worldlist[1][0]
