@@ -11,3 +11,5 @@ class simple():
 
 
 myobj = simple(300)
+
+myobj.value
