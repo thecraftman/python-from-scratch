@@ -9,4 +9,5 @@ class simple():
         self.value = self.value + amount
         print("We just added {} to your value".format(amount))
 
-    
+
+myobj = simple(300)
