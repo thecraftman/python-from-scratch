@@ -10,3 +10,8 @@ class Account():
         print(f"Added {dep_amt} to the balance")
 
     def withdrawal(self,wd_amt):
+         if self.balance >= wd_amt:
+            self.balance = self.balance - wd_amt
+            print("Withdrawal accepted")
+        else:
+            print("Sorry non enough funds!")
