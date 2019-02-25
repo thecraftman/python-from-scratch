@@ -4,3 +4,5 @@ class Account():
 
         self.owner = owner
         self.balance = balance
+
+    def deposit(self,dep_amt):
