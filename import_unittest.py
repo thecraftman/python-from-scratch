@@ -1,7 +1,7 @@
 import unittest
 import cap
 
-class Testcap(unittest. Testcase)
+class Testcap(unittest. Testcase):
 
     def test_one_word(self):
         text = 'python'
