@@ -14,4 +14,4 @@ class Testcap(unittest. Testcase):
         result = cap.cap_text(text)
         self.assertEqual(result, 'python')
 if __name__ == '__main__':
-    unittest.main(
+    unittest.main()
