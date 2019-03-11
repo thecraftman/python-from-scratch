@@ -7,7 +7,7 @@ class Testcap(unittest. Testcase):
         text = 'python'
         result = cap
         result = cap.cap_text(text)
-        self.assertEqual(result, 'python'
+        self.assertEqual(result, 'python')
 
     def test_multiple_words(self):
         text = 'monty python'
