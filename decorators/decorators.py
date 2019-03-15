@@ -1,1 +1,1 @@
-def 
+def simple_func():
