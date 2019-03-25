@@ -1,2 +1,2 @@
 def simple_func():
-     something
+    return something
