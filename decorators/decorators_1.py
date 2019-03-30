@@ -1,3 +1,3 @@
 def func():
-    return 
+    return 1
 func
