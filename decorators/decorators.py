@@ -1,2 +1,2 @@
-def simple_func():
+def simple_func()
     return something
