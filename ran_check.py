@@ -22,5 +22,5 @@ def ran_check(num,low,high):
         else:
             pass
     print "original string : ",s
-    print "No. of upper case characters : ",d ["upper"]
+    print "No. of upper case characters : ",d ["upper"
     print "No. of lower case characters : ",d["lower"]
