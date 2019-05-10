@@ -2,7 +2,7 @@
 
 # example
 x = 'hello world' #single quote
-x = "hello world" #double quote
+x = "hello world #double quote
 
 x = 'Hello world'
 x.upper()
