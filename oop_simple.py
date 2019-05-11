@@ -10,7 +10,7 @@ class simple():
         print("We just added {} to your value".format(amount))
 
 
-myobj = simple(300
+myobj = simple(300)
 
 myobj.value
 
