@@ -3,4 +3,4 @@
 a = 2  #integer 1
 b = 3  #integer 2
 c = a * b
-print (c
+print (c)
