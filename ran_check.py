@@ -16,7 +16,7 @@ def ran_check(num,low,high):
     d = {"upper":0, "lower":0}
     for c in s:
         if c.isupper():
-            d["upper"]+=1
+            d["upper"]+=
         elif c.islower():
             d["lower"]+=1
         else:
