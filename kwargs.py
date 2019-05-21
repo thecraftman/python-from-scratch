@@ -6,7 +6,7 @@ def myfunc(**kwargs):
         print('I did not find any fruit here')
 
 
-myfunc(fruit = 'apple'
+myfunc(fruit = 'apple')
 
 
 
