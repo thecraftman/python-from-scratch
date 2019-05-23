@@ -6,7 +6,7 @@ def spy_game(nums):
     # ['x'] length=1
     for num in nums:
         if num == code[0]:
-            code.pop(0
+            code.pop(0)
 
     return len(code) ==1
 
