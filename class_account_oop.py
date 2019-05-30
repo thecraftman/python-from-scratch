@@ -5,7 +5,7 @@ class Account():
         self.owner = owner
         self.balance = balance
 
-    def deposit(self,dep_amt)
+    def deposit(self,dep_amt):
          self.balance = self.balance + dep_amt
         print(f"Added {dep_amt} to the balance")
 
