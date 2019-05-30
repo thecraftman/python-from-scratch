@@ -14,6 +14,6 @@ class Account():
             self.balance = self.balance - wd_amt
             print("Withdrawal accepted")
         else:
-            print("Sorry non enough funds!")
+            print("Sorry non enough funds!"
     def __str__(self):
         return f"Owner: {self.owner} \nBalance: {self.balance}
