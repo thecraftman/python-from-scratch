@@ -9,7 +9,7 @@ class Account():
          self.balance = self.balance + dep_amt
         print(f"Added {dep_amt} to the balance")
 
-    def withdrawal(self,wd_amt):
+    def withdrawal(self,wd_amt)
          if self.balance >= wd_amt:
             self.balance = self.balance - wd_amt
             print("Withdrawal accepted")
