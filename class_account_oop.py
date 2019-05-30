@@ -15,5 +15,5 @@ class Account():
             print("Withdrawal accepted")
         else:
             print("Sorry non enough funds!")
-    def __str__(self):
+    def __str__(self)
         return f"Owner: {self.owner} \nBalance: {self.balance}
