@@ -6,7 +6,7 @@ def square (num):
 square(3)
 
 # definning it based on lamda expressions
-def square (num)
+def square (num):
 
     return num ** 2
 
