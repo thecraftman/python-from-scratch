@@ -1,3 +1,4 @@
+
 def spy_game(nums):
 
     code = [0,0,7, 'x']
@@ -14,8 +15,8 @@ def spy_game(nums):
 def square (num):
     return num **2
 
-my_nums = [1,2,3,4,5]
+num = [1,2,3,4,5]
 
 
-for item in map(square,my_nums):
+for item in map(square,num):
     print(item)
