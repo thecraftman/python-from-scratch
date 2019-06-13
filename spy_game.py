@@ -18,5 +18,5 @@ def square (num):
 num = [1,2,3,4,5]
 
 
-for item in map(square,nu):
+for item in map(square,num):
     print(item)
