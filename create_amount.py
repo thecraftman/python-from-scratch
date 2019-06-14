@@ -1,6 +1,6 @@
 class simple():
 
-    def __init__(self,value):
+    def __init__(self,value)
 
         self.value = value
 
@@ -8,5 +8,3 @@ class simple():
 
         self.value = self.value + amount
         print("We just added {} to your value".format(amount))
-
-    
