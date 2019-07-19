@@ -1,1 +1,1 @@
-print('This is a string{}'   .format ('INSERTED'))
+print('This is a string{}'   .format ('INSERTED')
