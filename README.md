@@ -23,12 +23,12 @@ The reason behind this is similar to the previous point: you can write and ship 
 * Python has [a built-in framework for unit tests](https://stxnext.com/blog/2018/06/21/measurable-benefits-unit-testing/)
 This helps you ship bug-free code.
 
-In addition to Python’s standard features, one of its major strengths in web development is the variety of web frameworks it offers.
+In addition to Python’s standard features, one of its major strengths in web development is [the variety of web frameworks it offers](https://stxnext.com/blog/2018/09/27/beginners-introduction-python-frameworks/)
 
 With a large selection of well-supported frameworks, you can find the right starting point for any project. Python gives you the tools to get the job done reliably, no matter whether you’re looking to focus on:
 
-fast-to-implement and out-of-the-box solutions,
-solutions that require many specialized microservices working together,
-an app where performance is crucial.
+* fast-to-implement and out-of-the-box solutions,
+* solutions that require many specialized microservices working together,
+* an app where performance is crucial.
 .
 
