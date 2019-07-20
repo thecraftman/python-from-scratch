@@ -1,14 +1,17 @@
 # python-from-scratch
 
-## Learn python from scratch 
+### Learn python from scratch 
 
 According to the latest [TIOBE Programming Community Index](https://www.tiobe.com/tiobe-index/?source=post_page---------------------------),  Python is one of the top 10 popular programming languages of 2017. Python is a general purpose and high level programming language. You can use Python for developing desktop GUI applications, websites and web applications. Also, Python, as a high level programming language, allows you to focus on core functionality of the application by taking care of common programming tasks. The simple syntax rules of the programming language further makes it easier for you to keep the code base readable and application maintainable 
 
 
 ### Advantages of Python for web development
-There are many advantages of Python that help you get results fast within the field of web development:
 
-Python has a large selection of pre-built libraries for just about anything.
+```
+There are many advantages of Python that help you get results fast within the field of web development:
+```
+
+* Python [has a large selection of pre-built libraries](https://stxnext.com/blog/2018/09/20/most-popular-python-scientific-libraries/)  for just about anything.
 Scientific computing, image processing, data processing, machine learning, deep learning—you name it, Python has it.
 
 Python code takes less time to write due to its simple and clean syntax.
