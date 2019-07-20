@@ -7,15 +7,15 @@ According to the latest [TIOBE Programming Community Index](https://www.tiobe.co
 
 ### Advantages of Python for web development
 
-```
+
 There are many advantages of Python that help you get results fast within the field of web development:
-```
+
 
 * Python [has a large selection of pre-built libraries](https://stxnext.com/blog/2018/09/20/most-popular-python-scientific-libraries/)  for just about anything.
 Scientific computing, image processing, data processing, machine learning, deep learning—you name it, Python has it.
 
-Python code takes less time to write due to its simple and clean syntax.
-Because of this, code written in Python lends itself very well to creating quick prototypes.
+* Python code takes less time to write due to its simple and clean syntax.
+Because of this, code written in Python lends itself very well to [creating quick prototypes](https://stxnext.com/blog/2018/05/08/5x5-5-tips-building-successful-minimum-viable-product-5-weeks/)
 
 Python accelerates the ROI of commercial projects.
 The reason behind this is similar to the previous point: you can write and ship your code faster. This is especially important for startups.
