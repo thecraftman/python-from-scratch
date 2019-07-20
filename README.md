@@ -17,10 +17,10 @@ Scientific computing, image processing, data processing, machine learning, deep 
 * Python code takes less time to write due to its simple and clean syntax.
 Because of this, code written in Python lends itself very well to [creating quick prototypes](https://stxnext.com/blog/2018/05/08/5x5-5-tips-building-successful-minimum-viable-product-5-weeks/)
 
-Python accelerates the ROI of commercial projects.
-The reason behind this is similar to the previous point: you can write and ship your code faster. This is especially important for startups.
+* Python accelerates the ROI of commercial projects.
+The reason behind this is similar to the previous point: you can write and ship your code faster. [This is especially important for startups](https://stxnext.com/blog/2018/04/03/why-python-should-be-programming-language-your-startup/)
 
-Python has a built-in framework for unit tests.
+* Python has [a built-in framework for unit tests](https://stxnext.com/blog/2018/06/21/measurable-benefits-unit-testing/)
 This helps you ship bug-free code.
 
 In addition to Python’s standard features, one of its major strengths in web development is the variety of web frameworks it offers.
