@@ -8,12 +8,12 @@ for num in mylist:
 
 mylist = [100,200,300,400,500]
 for num in mylist:
-    print(num
+    print(num)
 
 #adding if
 for num in mylist:
     #check for even
-    if num % 2 ==0:
+    if num % 2 ==0
         print(num)
     else:
         print(f'odd number:{num}') #prints it one after the other
