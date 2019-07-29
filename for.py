@@ -13,7 +13,7 @@ for num in mylist:
 #adding if
 for num in mylist:
     #check for even
-    if num % 2 ==0
+    if num % 2 ==0:
         print(num)
     else:
         print(f'odd number:{num}') #prints it one after the other
