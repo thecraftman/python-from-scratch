@@ -8,7 +8,7 @@ for num in mylist:
 
 mylist = [100,200,300,400,500]
 for num in mylist:
-    print(num)
+    print(num
 
 #adding if
 for num in mylist:
