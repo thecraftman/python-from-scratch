@@ -1,5 +1,5 @@
 def square (num):
-    result = num ** 
+    result = num ** 2
     return result
 
 # based on lamdba expressions
