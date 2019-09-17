@@ -1,4 +1,4 @@
-def myfunc(**kwargs)
+def myfunc(**kwargs):
     if 'fruit' in kwargs:
         print('My choice of fruit is {}'.format(kwargs['fruit']))
 
