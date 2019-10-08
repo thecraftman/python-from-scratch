@@ -1,4 +1,4 @@
-mylist = [1,2,3
+mylist = [1,2,3]
 for num in range (0,11,2):
     print(num)
 list (range(0,11,2))
