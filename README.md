@@ -32,3 +32,6 @@ With a large selection of well-supported frameworks, you can find the right star
 * an app where performance is crucial.
 .
 
+
+## LICENSE 
+    (MIT)
