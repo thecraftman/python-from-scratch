@@ -11,7 +11,7 @@ myfunc(fruit = 'apple')
 
 
 ############### ARGS AND KWARGS
-def myfunc(*args, **kwargs)
+def myfunc(*args, **kwargs):
     print(args)
     print(kwargs)
     print('I woud like {} {}'.format(args[0],kwargs['food']))
