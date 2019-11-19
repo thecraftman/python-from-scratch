@@ -1,2 +1,2 @@
 class module():
-    pass
+    pas
