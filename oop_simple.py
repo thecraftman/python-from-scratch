@@ -2,7 +2,7 @@ class simple():
 
     def __init__(self,value):
 
-        self.value = valu
+        self.value = value
 
     def add_to_value(self,amount):
 
