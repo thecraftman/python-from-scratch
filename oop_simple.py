@@ -16,4 +16,4 @@ myobj.value
 
 myobj.add_to_value(500)
 
-myobj.value
+myobj.valu
