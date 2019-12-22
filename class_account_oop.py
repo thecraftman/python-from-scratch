@@ -3,7 +3,7 @@ class Account():
     def __init__(self,owner,balance=0):
 
         self.owner = owner
-        self.balance = balance
+        self.balance = balanc
 
     def deposit(self,dep_amt):
          self.balance = self.balance + dep_amt
