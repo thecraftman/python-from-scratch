@@ -1,4 +1,4 @@
-# python-from-scratch
+# pytho-from-scratch
 
 ### Learn python from scratch
 
