@@ -28,7 +28,7 @@ With a large selection of well-supported frameworks, you can find the right star
 * solutions that require many specialized microservices working together,
 * an app where performance is crucial.
 
-## Contributi
+## Contributing
  Please feel free to fork this package and contribute by submitting a pull request to enhance the functionalities.
  
  ### How can I thank you?
