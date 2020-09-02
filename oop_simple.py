@@ -12,7 +12,7 @@ class simple():
 
 myobj = simple(300)
 
-myobj.value
+myobj.val
 
 myobj.add_to_value(500)
 
