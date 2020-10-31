@@ -12,6 +12,8 @@ Also, Python, as a high level programming language, allows you to focus on core 
 - https://www.tiobe.com/tiobe-index/python/
 - https://en.wikipedia.org/wiki/Python_(programming_language)
 
+---------------------
+
 
 
 There are many advantages of Python that help you get results fast within the field of web development:
